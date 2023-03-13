@@ -1,0 +1,11 @@
+#!/bin/bash
+
+echo "some file content" > /path/to/outputfile
+#!/bin/bash
+
+echo "some file content     
+
+
+#!/bin/bash
+
+echo "some file content" > /path/to/outputfile
