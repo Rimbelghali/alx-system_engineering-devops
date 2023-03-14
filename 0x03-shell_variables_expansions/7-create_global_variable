@@ -1,2 +1,2 @@
 #!/bin/bash
-export BEST="School" | echo "Created new global variable Best with value '$School'"
+echo "export BEST=school" >> environment.sh
