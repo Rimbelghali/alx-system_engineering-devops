@@ -1,2 +1,2 @@
 #!/bin/bash
-exho $(echo "$BREATH^$LOVE" | bc)
+echo $(($BREATH^$LOVE)) | bc
